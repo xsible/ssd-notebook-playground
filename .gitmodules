@@ -1,0 +1,4 @@
+[submodule "ssd.pytorch"]
+	path = ssd.pytorch
+	url = https://github.com/xsible/ssd.pytorch.git
+	branch = master
